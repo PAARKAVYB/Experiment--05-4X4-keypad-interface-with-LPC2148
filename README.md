@@ -273,11 +273,11 @@ void LCD_init()
 ```
 
 # OUTPUT:
-![output](op1.jpeg)
+![op1](https://user-images.githubusercontent.com/93509383/200128674-3647eaed-1a93-4ba7-accc-b470b52d4f1e.jpeg)
 
-![output](op2.jpeg)
+![op2](https://user-images.githubusercontent.com/93509383/200128694-e434a0d2-5c9b-4f89-9a9b-a781db0e6eeb.jpeg)
 
-![output](op3.png)
+![op3](https://user-images.githubusercontent.com/93509383/200128702-1ae7a5a4-532e-4f8a-b931-805da922968e.png)
 
 # RESULT:
 Interfacing a keypad 4x4 is interfaced with LPC2148.
